@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "name": "Chill Gamer",
+    "image": "https://i.ibb.co/3JGgvFm/Screenshot-2025-02-05-165129.png",
+    "description": "A gaming review platform designed for enthusiasts, offering detailed reviews, CRUD operations, dynamic animations, and real-time updates.",
+    "technologies": [
+      "React.js",
+      "MongoDB Atlas",
+      "Tailwind CSS",
+      "React Router",
+      "React Icons",
+      "React Tooltip",
+      "React Simple Typewriter",
+      "Animate.css"
+    ],
+    "liveLink": "https://chill-gamer-2k25.web.app/",
+    "githubLink": "https://github.com/piash2k/Chill-Gamer-Client-Side",
+    "challenges": "Integrating real-time reviews and ensuring a smooth user experience with dynamic animations.",
+    "improvements": "Adding more interactive elements and improving CRUD functionality."
+  },
+  {
+    "id": 2,
+    "name": "Blog Website Client",
+    "image": "https://i.ibb.co/gbnkGgf1/Screenshot-2025-02-05-171347.png",
+    "description": "A dynamic platform for creating, exploring, and managing blogs, with features like commenting, wishlist management, authentication, and real-time updates.",
+    "technologies": [
+      "React.js",
+      "React Router DOM",
+      "Tailwind CSS",
+      "DaisyUI",
+      "Firebase",
+      "React Query",
+      "Axios",
+      "Framer Motion"
+    ],
+    "liveLink": "https://blog-website-2k25.web.app/",
+    "githubLink": "https://github.com/piash2k/Blog-Website-Client",
+    "challenges": "Optimizing performance and ensuring smooth real-time data fetching.",
+    "improvements": "Adding more features for blog moderation and improving the commenting system."
+  },
+  {
+    "id": 3,
+    "name": "Discount PRO",
+    "image": "https://i.ibb.co/VYXjBdPG/Screenshot-2025-02-05-172746.png",
+    "description": "A smart coupon aggregation platform for Bangladeshi e-commerce shoppers, simplifying the process of discovering and utilizing discount coupons.",
+    "technologies": [
+      "React.js",
+      "Context API",
+      "React Router DOM",
+      "Tailwind CSS",
+      "DaisyUI",
+      "React Toastify",
+      "React Icons",
+      "React Fast Marquee",
+      "AOS",
+      "Firebase Authentication"
+    ],
+    "liveLink": "https://discount-pro-e2544.web.app",
+    "githubLink": "https://github.com/piash2k/Discount-PRO",
+    "challenges": "Implementing secure authentication and ensuring a smooth, interactive experience for users.",
+    "improvements": "Adding personalized recommendations and enhancing coupon filtering options."
+  },
+  {
+    "id": 4,
+    "name": "Gadget Heaven",
+    "image": "https://i.ibb.co/3Z8JKdf/Screenshot-2025-02-07-195558.png",
+    "description": "Gadget Heaven is a dynamic gadget platform that allows users to explore, manage, and purchase products, with features like cart and wishlist management, product ratings, and dynamic product displays.",
+    "technologies": [
+      "React.js",
+      "Context API",
+      "React Router DOM",
+      "Tailwind CSS",
+      "DaisyUI",
+      "React Toastify",
+      "React Stars",
+      "Firebase Authentication"
+    ],
+    "liveLink": "http://piash2k-gadget-heaven.surge.sh",
+    "githubLink": "https://github.com/piash2k/Gadget-Heaven",
+    "challenges": "Implementing dynamic product display, cart management, and ensuring smooth interaction and feedback for users.",
+    "improvements": "Enhancing product filtering and search functionality, adding better price sorting options, and introducing personalized product recommendations."
+  }
+]
